@@ -5,7 +5,7 @@
 
     Date   : 06.01.2022
 
-    Description :  Tic Tac Toe implementation using c programming language using
+    Description :  Tic Tac Toe implementation using c programming language with
                    minimax algorithm.
 
     URL : 

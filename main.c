@@ -8,7 +8,7 @@
     Description :  Tic Tac Toe implementation using c programming language with
                    minimax algorithm.
 
-    URL : 
+    URL : https://github.com/s3h4n/tictactoe.git
 
 */
 

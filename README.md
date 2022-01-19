@@ -14,6 +14,7 @@ git clone https://github.com/s3h4n/tictactoe.git
 ## Usage 🔥
 Use the following command.
 ```bash
+cd tictactoe
 gcc -o main main.c && ./main
 ```
 

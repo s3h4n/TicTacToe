@@ -1,7 +1,6 @@
 # Tic Tac Toe 🎮
 
-Tic Tac Toe implementation using C programming language with
-                   minimax algorithm.
+Tic Tac Toe implementation using C and Python.
 
 ## Installation ✨
 
@@ -12,11 +11,17 @@ git clone https://github.com/s3h4n/tictactoe.git
 ```
 
 ## Usage 🔥
-Use the following command.
+
+For C programming language.
+
 ```bash
-cd tictactoe
 gcc -o main main.c && ./main
 ```
+For Python.
+```
+python3 __main__.py
+```
+
 
 ## Contributing 🤝
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

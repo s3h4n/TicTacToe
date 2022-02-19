@@ -7,7 +7,7 @@ Tic Tac Toe implementation using C and Python.
 Clone this git repo to your local computer.
 
 ```bash
-git clone https://github.com/s3h4n/tictactoe.git
+git clone https://github.com/s3h4n/TicTacToe.git
 ```
 
 ## Usage 🔥
